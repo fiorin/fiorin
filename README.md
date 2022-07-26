@@ -21,7 +21,6 @@
 	<img align='center' alt='Html5' height='30' title='Html5' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
 	<img align='center' alt='Css3' height='30' title='Css3' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
 	<img align='center' alt='React' title='React' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
-	<img align='center' alt='Redux' title='Redux' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg'>
 	<img align='center' alt='Next' title='NextJs' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg'>
 	<img align='center' alt='Node' title='NodeJs' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'>
 	<img align='center' alt='Nest' title='NestJs' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg'>
@@ -29,20 +28,15 @@
 	<img align='center' alt='Socket.io' title='Socket.io' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg'>
 	<img align='center' alt='Php' title='Php' height='45' width='55' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg'>
 	<img align='center' alt='Zend' title='Zend' height='40' width='45' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg'>
-	<img align='center' alt='Doctrine' title='Doctrine' height='30' width='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/doctrine/doctrine-original.svg'>
 	<img align='center' alt='Flutter' title='Flutter' height='30' width='35' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg'>
 	<img align='center' alt='Docker' title='Docker' height='50' width='50' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg'>
-	<img align='center' alt='Grunt' title='Grunt' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/grunt/grunt-original.svg'>
 	<img align='center' alt='Bootstrap' title='Bootstrap' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg'>
 	<img align='center' alt='Jquery' title='Jquery' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg'>
 	<img align='center' alt='Mysql' title='Mysql' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg'>
 	<img align='center' alt='Postgresql' title='Postgresql' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg'>
 	<img align='center' alt='DynamoDb' title='DynamoDb' height='42' width='40' src='https://raw.githubusercontent.com/burib/aws-simple-icons-for-architecture-diagrams/a1746b250a0ac37a8775140fc1b1bdca6774f822/Database/Database_AmazonDynamoDB.svg'>
-	<img align='center' alt='MongoDb' title='MongoDb' height='40' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg'>
 	<img align='center' alt='Sass' title='Sass' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg'>
-	<img align='center' alt='Stylus' title='Stylus' height='40' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/stylus/stylus-original.svg'>
 	<img align='center' alt='Git' title='Git' height='35' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg'>
-	<img align='center' alt='Figma' title='Figma' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg'>
 	<img align='center' alt='Photoshop' title='Photoshop' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg'>
 	<img align='center' alt='Java' title='Java' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'>
 	<img align='center' alt='Python' title='Python' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
