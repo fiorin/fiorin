@@ -1,12 +1,6 @@
 <h2>Hi, I'm Fiorin<br/>
 <small>I can code! & much more...</small></h2>
 <p>Experienced Software Developer. Fierce, curious and highly adaptable. No matter if it's on the web, mobile or desktop, there is always a way in my Swiss army knife mind.</p>
-<h4><b>How's your repositories?</b></h4>
-<div align='center'>
-<a href='https://github.com/fiorin'>
-<img align='center' src='https://github-readme-stats.vercel.app/api?username=fiorin&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&hide=issues'/>
-</a>
-</div>
 <h4><b>How about the languages?</b></h4>
 <div align='center'>
 <a href='https://github.com/fiorin'>
