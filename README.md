@@ -4,13 +4,13 @@
 <h4><b>How about the languages?</b></h4>
 <hr/>
 <div style='display: inline_block'>
-	<h4><b>Technical knowledge</b></h4>
+	<h4><b>Main Technical knowledge</b></h4>
 	<img align='center' alt='Javascript' title='Javascript' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
 	<img align='center' alt='Typescript' title='Typescript' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg'>
 	<img align='center' alt='React' title='React' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
-	<img align='center' alt='Next' title='NextJs' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg'>
-	<img align='center' alt='Node' title='NodeJs' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'>
-	<img align='center' alt='Nest' title='NestJs' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg'>
+	<img align='center' alt='NextJs' title='NextJs' height='30' width='40' src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg'>
+	<img align='center' alt='NodeJs' title='NodeJs' height='30' width='40' src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg'>
+	<img align='center' alt='NestJs' title='NestJs' height='30' width='40' src='https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg'>
 	<img align='center' alt='Docker' title='Docker' height='50' width='50' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg'>
 	<img align='center' alt='Mysql' title='Mysql' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg'>
 	<img align='center' alt='Postgresql' title='Postgresql' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg'>
